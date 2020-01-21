@@ -1,5 +1,5 @@
 # using alpine-glibc instead of alpine  is mainly because JDK relies on glibc
-FROM hsw/java8:1.0
+FROM huyisheng/g4m-jre8
 # author
 MAINTAINER hsw
 EXPOSE 8090
